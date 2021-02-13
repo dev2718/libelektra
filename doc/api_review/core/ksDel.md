@@ -4,9 +4,9 @@
 - end = 2021-01-23 18:10
 - moderator = Stefan Hanreich <stefanhani@gmail.com>
 
-
 ## Signature
-int ksDel(KeySet *ks)
+
+int ksDel(KeySet \*ks)
 
 ## Checklist
 
@@ -82,6 +82,5 @@ int ksDel(KeySet *ks)
 - [ ] All possible enum values are covered by tests
 - [ ] No inconsistencies between tests and documentation
 - [ ] Functions should have no side effects (idempotency)
-
 
 ## Summary

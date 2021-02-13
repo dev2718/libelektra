@@ -4,8 +4,8 @@
 - end = 2021-01-23 18:10
 - moderator = Stefan Hanreich <stefanhani@gmail.com>
 
-
 ## Signature
+
 ssize_t keyAddBaseName(Key *key,const char *baseName)
 
 ## Checklist
@@ -82,6 +82,5 @@ ssize_t keyAddBaseName(Key *key,const char *baseName)
 - [ ] All possible enum values are covered by tests
 - [ ] No inconsistencies between tests and documentation
 - [ ] Functions should have no side effects (idempotency)
-
 
 ## Summary

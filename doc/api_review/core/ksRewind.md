@@ -4,9 +4,9 @@
 - end = 2021-01-23 18:10
 - moderator = Stefan Hanreich <stefanhani@gmail.com>
 
-
 ## Signature
-int ksRewind(KeySet *ks)
+
+int ksRewind(KeySet \*ks)
 
 ## Checklist
 
@@ -82,6 +82,5 @@ int ksRewind(KeySet *ks)
 - [ ] All possible enum values are covered by tests
 - [ ] No inconsistencies between tests and documentation
 - [ ] Functions should have no side effects (idempotency)
-
 
 ## Summary

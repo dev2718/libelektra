@@ -4,9 +4,9 @@
 - end = 2021-01-23 18:10
 - moderator = Stefan Hanreich <stefanhani@gmail.com>
 
-
 ## Signature
-const Key *keyGetMeta(const Key *key, const char* metaName)
+
+const Key *keyGetMeta(const Key *key, const char\* metaName)
 
 ## Checklist
 
@@ -82,6 +82,5 @@ const Key *keyGetMeta(const Key *key, const char* metaName)
 - [ ] All possible enum values are covered by tests
 - [ ] No inconsistencies between tests and documentation
 - [ ] Functions should have no side effects (idempotency)
-
 
 ## Summary

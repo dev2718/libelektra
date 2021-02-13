@@ -4,9 +4,9 @@
 - end = 2021-01-23 18:10
 - moderator = Stefan Hanreich <stefanhani@gmail.com>
 
-
 ## Signature
-int keyIsString(const Key *key)
+
+int keyIsString(const Key \*key)
 
 ## Checklist
 
@@ -82,6 +82,5 @@ int keyIsString(const Key *key)
 - [ ] All possible enum values are covered by tests
 - [ ] No inconsistencies between tests and documentation
 - [ ] Functions should have no side effects (idempotency)
-
 
 ## Summary
