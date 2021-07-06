@@ -120,7 +120,6 @@ you up to date with the multi-language support provided by Elektra.
 ## Tools
 
 - ambiguous write operations now disabled in kdb _(Alexander Firbas)_
-- ambiguous write operations now disabled in kdb
 - <<TODO>>
 - <<TODO>>
 - <<TODO>>
